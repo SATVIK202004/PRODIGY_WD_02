@@ -1,4 +1,4 @@
 # PRODIGY_WD_02
 TO VIEW THE WEB PAGE COPY AND PASTE THE BELOW LINK IN YOUR WEB BROWSER
-(https://app.netlify.com/sites/satvik20/deploys)
+https://satvik20.netlify.app/
 
